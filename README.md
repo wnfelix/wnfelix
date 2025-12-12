@@ -1,11 +1,7 @@
 # William Felix
-
-Desenvolvedor Fullstack com foco em soluções usando **React**, **React Native**, **Node.js** e **TypeScript**.
-
-Atualmente trabalhando com integrações de sistemas e arquitetura na Spread Tecnologia.
-
-## Stack Atual
-
+Fullstack Developer focused on building solutions with **React**, **React Native**, **Node.js**, and **TypeScript**.
+Currently working with system integrations and architecture at Spread Tecnologia.
+## Current Stack
 **Frontend**
 - React.js, React Native
 - TypeScript, JavaScript (ES6+)
@@ -20,17 +16,12 @@ Atualmente trabalhando com integrações de sistemas e arquitetura na Spread Tec
 **Tools & Practices**
 - Git, GitHub
 - Docker
-- MongoDB, SQL Server, Postgress
-- Arquitetura Hexagonal
-
-## Projetos em Destaque
-
+- MongoDB, SQL Server, Postgres
+- Hexagonal Architecture
+## Featured Projects
 ### [Marketspace](https://github.com/wnfelix/ignite_reactnative_task3)
-App mobile de marketplace desenvolvido em React Native com TypeScript. Implementa autenticação, listagem de produtos e gestão de anúncios.
-
+Mobile marketplace app built with React Native and TypeScript. Implements authentication, product listing, and ad management.
 ### [Node API Rest](https://github.com/wnfelix/NodeAPIRest)
-API REST robusta construída com Node.js, TypeScript e TypeORM. Implementa padrões de arquitetura limpa e boas práticas de desenvolvimento backend.
-
+Robust REST API built with Node.js, TypeScript, and TypeORM. Implements clean architecture patterns and backend development best practices.
 ---
-
-**Contato:** [LinkedIn](https://linkedin.com/in/williamnogueira-felix-77506632) | [Email](mailto:william.nfelix@gmail.com)
+**Contact:** [LinkedIn](https://linkedin.com/in/williamnogueira-felix-77506632) | [Email](mailto:william.nfelix@gmail.com)
