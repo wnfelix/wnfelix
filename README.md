@@ -25,4 +25,4 @@ A complete backend system for personal finance management that automates expense
 Mobile marketplace app built with React Native and TypeScript. Implements authentication, product listing, and ad management.
 
 ---
-**Contact:** [LinkedIn](https://linkedin.com/in/williamnogueira-felix-77506632) | [Email](mailto:william.nfelix@gmail.com)
+**Contact:** [LinkedIn](https://linkedin.com/in/william-nogueira-felix-77506632) | [Email](mailto:william.nfelix@gmail.com)
