@@ -1,4 +1,4 @@
-# William Felix
+# Hi, I'm William Felix
 Fullstack Developer focused on building solutions with **React**, **React Native**, **Node.js**, and **TypeScript**.
 Currently working with system integrations and architecture at Spread Tecnologia.
 ## Current Stack
